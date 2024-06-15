@@ -2,7 +2,7 @@
 
 The Responsive Portfolio Website project is a visually appealing and user-friendly personal portfolio site built using HTML and CSS. Designed to adapt seamlessly to various screen sizes, this project ensures an optimal viewing experience across devices. 
 
-![Website preview 1](preview1.jpg)![Website preview 2](preview2.jpg)
+![Website preview 1](preview1.jpg)
 
 ## Description
 
